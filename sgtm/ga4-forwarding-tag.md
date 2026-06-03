@@ -58,4 +58,4 @@ sendHttpRequest(mpUrl, (statusCode) => {
 - `api_secret` comes from a **template field**, never hard-coded (kept out of the repo — see `.gitignore`).
 - The consent gate runs **before** any network call; nothing leaves on denied consent.
 - `impression_id` is generated server-side and echoed back, so attribution does not rely on any
-  browser-stored identifier. This is the modern form of the GCLID-style key I used at ADventori.
+  browser-stored identifier. This is the modern form of a GCLID-style key used in that in-house system.

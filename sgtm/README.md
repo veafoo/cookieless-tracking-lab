@@ -1,7 +1,7 @@
 # Server-Side GTM
 
 Move tag execution off the browser and into a server you control. This is the standard form of
-the proprietary server-side collection system I built at ADventori before Google shipped
+an in-house, pre-sGTM server-side collection system, built before Google shipped
 server-side GTM (sGTM).
 
 ## Why server-side

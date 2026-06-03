@@ -3,7 +3,7 @@
 Last-touch attribution **without third-party cookies**, using a durable **Impression ID**
 stamped server-side (see [`sgtm/`](../sgtm)) instead of a cross-site identifier.
 
-This is the method I built at ADventori before Google's equivalent: every ad impression carries
+This echoes a method built by the team before Google's equivalent: every ad impression carries
 its own ID; conversions reference the impression they came from; attribution is then a join on
 that ID inside a time window — no cookie, no cross-site tracking.
 
