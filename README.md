@@ -10,8 +10,8 @@ piece you can read, run, and adapt.
 ## Why this exists
 
 I spent nine years at [ADventori](https://www.adventori.com/) building the data and tracking
-layer behind large advertiser accounts (Renault, Nissan, Volkswagen, GMF, P&G…). Two things I
-built back then are now mainstream concerns:
+layer behind large advertiser accounts (automotive, insurance, FMCG). Two things I built back
+then are now mainstream concerns:
 
 - a **proprietary server-side collection system** — before Google shipped server-side GTM;
 - a **cookieless attribution method based on an Impression ID** (a GCLID-style identifier),
