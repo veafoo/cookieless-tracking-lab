@@ -1,0 +1,11 @@
+# Local / editor
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+# Secrets — never commit credentials or container exports with keys
+*.env
+.env*
+service-account*.json
+secrets/
